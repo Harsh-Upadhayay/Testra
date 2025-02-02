@@ -340,3 +340,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+backend/venv/
